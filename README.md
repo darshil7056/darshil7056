@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshil Patel</h1>
 <h3 align="center">A passionate full-stack Blockchain developer from India</h3>
 
-- 🔭 I’m currently persuing Masters of Applied Computing**
+- 🔭 I’m currently persuing Masters of Applied Computing
 
 - 👯 I’m looking to collaborate on **Full-Stack and Blockchain Projects**
 
