@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack and Blockchain Projects**
 
-- 💬 Ask me about **react,solidity,hyperledger fabric,golang,ethereum**
+- 💬 Ask me about **Reactjs, Nodejs, Solidity, Hyperledger Fabric, Golang, Ethereum**
 
 - 📫 How to reach me **darshilpatel7056@gmail.com**
 
